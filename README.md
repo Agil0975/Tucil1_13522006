@@ -9,7 +9,7 @@ Tugas Kecil Mata Kuliah IF2211 Strategi Algoritma 2024 - Cyberpunk 2077 Breach P
 * [Author](#author)
 
 ## **Deskripsi Singkat**
-<em> Cyberpunk 2077 Breach Protocol <em> adalah minigame meretas pada permainan video Cyberpunk 2077.
+Cyberpunk 2077 Breach Protocol adalah minigame meretas pada permainan video Cyberpunk 2077.
 Minigame ini merupakan simulasi peretasan jaringan local dari ICE (Intrusion Countermeasures
 Electronics) pada permainan Cyberpunk 2077. 
 
